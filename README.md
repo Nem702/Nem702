@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning ReactJS
+As a passionate and dedicated junior web developer, I thrive on creating dynamic and user-friendly websites. With a solid foundation in HTML, CSS, and JavaScript, I enjoy crafting responsive designs and enhancing user experiences. My journey began with self-taught coding lessons, which ignited my enthusiasm for web development. I continuously seek to expand my knowledge and stay updated with the latest industry trends. My problem-solving skills and attention to detail drive me to deliver high-quality projects. I am eager to collaborate with teams and contribute to innovative web solutions that make a meaningful impact.
 
 
 # 💻 Tech Stack:
