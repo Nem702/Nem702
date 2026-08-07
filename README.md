@@ -1,5 +1,4 @@
 # 💫 About Me: <br>
-Automation engineer — I build internal tooling and data pipelines. ⚒️<br>
 My journey began with self-taught front-end lessons, which ignited ❤️‍🔥 my enthusiasm for building things for the web. <br>
 That's grown into Python pipelines, SQL, and APIs — with React on the front when something needs a UI. 📖 🕸️ 📱<br>
 I continuously seek to expand my knowledge and stay updated with the latest industry trends. 🔧
