@@ -10,7 +10,7 @@ I continuously seek to expand my knowledge and stay updated with the latest indu
 **2026** — Full-stack & automation · Python, FastAPI, Postgres, CI pipelines <br>
 
 # 🏎️ Featured Project:
-**[f1-tracker](https://github.com/Nem702/f1-tracker)** — [live demo](https://f1-tracker.vercel.app) <br>
+**[f1-tracker](https://github.com/Nem702/f1-tracker)** — [live demo](https://f1-tracker.dev) <br>
 Full-stack F1 telemetry dashboard. A scheduled Python pipeline pulls lap-by-lap timing
 from the OpenF1 API into Postgres; a read-only FastAPI layer serves it to a
 React + TypeScript frontend. GitHub Actions → Neon → Render → Vercel.
